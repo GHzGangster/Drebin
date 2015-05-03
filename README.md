@@ -6,6 +6,13 @@ Code is very static at the moment.
 
 If you have any suggestions, issues, or any code, I'd love to see them!
 
+# Credits
+
+AudioTool
+[daemon1](http://forum.xentax.com/memberlist.php?mode=viewprofile&u=48575): figuring out the codec, decryption code, and help with the encoder.
+[tbg](http://forum.xentax.com/memberlist.php?mode=viewprofile&u=40950): helping figure out the MTA2 file structure.
+[OrangeC](http://forum.xentax.com/memberlist.php?mode=viewprofile&u=4673): getting daemon1 to work on this, testing stuff out.
+
 # The MIT License (MIT)
 
 Copyright (c) 2015 GHzGangster, SaveMGO
